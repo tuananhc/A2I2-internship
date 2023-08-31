@@ -1,0 +1,89 @@
+﻿Question ID,Evaluation result,Multi-select
+70754829,"- Both worked
+- similar answer",Both worked
+70798522,"- SO answer worked
+- GPT answer did not work",SO
+70818749,"- both worked
+- different approach",Both worked
+70872503,"- SO worked
+- GPT also worked, but output extra lines",Both worked
+70879474,- both worked,Both worked
+70910467,- both worked,Both worked
+70962539,"- GPT missed importing statements
+- Beside that, both worked",Both worked
+70980972,"- both worked
+",Both worked
+71179456,- both worked,Both worked
+71205964,- GPT has syntax error (extra brackets) and missing import statement,SO
+71217530,"- Wrong import statement (possibly outdated)
+- SO answer works fine",SO
+71219440,- Both worked,Both worked
+71313307,- Both worked,Both worked
+71313520,"- GPT misunderstood the assignment and applied the function to every entry instead of selected ones
+- SO answer worked",SO
+71543241,- Both worked,Both worked
+71579537,"- GPT misunderstood the assignment, hence output the wrong program
+- SO answer worked",SO
+71579983,- Both worked,Both worked
+71662388,"- SO answer worked
+- GPT output wrong numbers
+- When output is not specified, GPT usually makes many mistake in calculation and understanding the task",SO
+71689722,"- SO answer did not worked. The version of Pandas that the answer worked on was outdated
+- GPT answer worked",GPT
+71722526,- Both worked fine,Both worked
+71738491,- Similar output,Both worked
+71797809,- Different verdict,Can't tell
+71809574,"- SO used outdated version
+- GPT used correct one
+- Both have similar ideas",GPT
+71869394,- Both worked and used the same idea,Both worked
+71876716,- Both worked but used different ideas,Both worked
+71887167,- Both worked,Both worked
+71917596,- Both worked,Both worked
+72006341,"- SO worked, but was lengthy
+- GPT did not handle edge case (outputing NaN values)",SO
+72011190,"- GPT has similar ideas to SO answer, but wrong execution, i.e., missing a criteria in question
+- SO worked ",SO
+72014918,"- GPT misunderstood the assignment
+- SO worked",SO
+72036741,- Both worked,Both worked
+72062035,- Both worked,Both worked
+72183900,"- GPT gives outdated version answer
+- SO worked",SO
+72244839,"- Both worked
+- GPT offered a more elegant method",Both worked
+72263435,"- Unable to evaluate due to lack of information from the question, so GPT performance is affected",Can't tell
+72305727,"- Both worked, using different method",Both worked
+72342110,"- Both worked, SO offer a more elegant way",Both worked
+72347546,"- SO worked, GPT did not",SO
+72434261,- Both worked and use the same method,Both worked
+72440590,- Both worked and use the same method,Both worked
+72502801,"- Both worked and use the same method, although SO one offer more explanation and further enhancement",Both worked
+72545612,- Both worked and use the same method,Both worked
+72607537,- Both worked and use the same method,Both worked
+72721886,"- Both worked, but SO one offer a cleaner way",Both worked
+72747944,"- Both worked, but GPT one offer a cleaner way to read and debug",Both worked
+72764454,- Both worked and use the same method,Both worked
+72773172,"- Both worked, but GPT missed the last step",Both worked
+72861044,"- Both worked, SO offer a cleaner way",Both worked
+72888309,- Both worked and use the same method,Both worked
+72929205,- Both worked and use the same method,Both worked
+72944672,- Both worked and use the same method,Both worked
+73005327,"- SO worked
+- GPT have some bug",SO
+73009383,"- SO worked
+- GPT misunderstood the assignment",SO
+73014133,- Both worked and use the same method,Both worked
+73121956,"- SO worked
+- GPT has compilation error",SO
+73163042,"- SO worked
+- GPT also worked, but not in the way the author wanted to",SO
+73378365,"- GPT almost worked, did not fully understand the task
+- SO worked ***",SO
+73455470,"- SO worked
+- GPT almost worked, the output format is wrong",SO
+73490276,"- SO worked
+- GPT has the same idea, but forgot the conversion and assume input type",SO
+73530459,- Both worked and use the same method,Both worked
+73548775,- Both worked but use different method,Both worked
+73788546,- Both worked and use the same method,Both worked
