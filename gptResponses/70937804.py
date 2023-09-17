@@ -1,1 +1,0 @@
-# Based on the provided screenshot, it appears that you need to inherit the `crm.lead.form.view` view.

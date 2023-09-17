@@ -1,0 +1,6 @@
+.env
+Test Environment
+archive
+sandbox.*
+gitignore
+.python-version
