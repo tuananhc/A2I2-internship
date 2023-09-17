@@ -4,3 +4,4 @@ archive
 sandbox.*
 gitignore
 .python-version
+.gitignore
