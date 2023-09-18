@@ -87,7 +87,7 @@ Below are the prompts that we used and some example:
 
         Here's my problem: 
             
-        "<p>How do I print access the entries in a Pandas Dataframe by position?</p>"
+        "<p>How do I access the entries in a Pandas Dataframe by position?</p>"
 
         Find a solution for the problem, and put everything inside a function called "myFunc1". 
         Make sure all relevant and required libraries are imported.
